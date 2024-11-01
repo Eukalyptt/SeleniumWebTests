@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronald\\Desktop\\testimine2\\WebsiteTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA09D9D-2939-41F4-ADF1-06B08CA5BED8}|WebsiteTests\\WebsiteTests.csproj|c:\\users\\ronald\\desktop\\testimine2\\websitetests\\websitetests\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA09D9D-2939-41F4-ADF1-06B08CA5BED8}|WebsiteTests\\WebsiteTests.csproj|solutionrelative:websitetests\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA09D9D-2939-41F4-ADF1-06B08CA5BED8}|WebsiteTests\\WebsiteTests.csproj|c:\\users\\ronald\\desktop\\testimine2\\websitetests\\websitetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA09D9D-2939-41F4-ADF1-06B08CA5BED8}|WebsiteTests\\WebsiteTests.csproj|solutionrelative:websitetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest2.cs",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\testimine2\\WebsiteTests\\WebsiteTests\\UnitTest2.cs",
+              "RelativeDocumentMoniker": "WebsiteTests\\UnitTest2.cs",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\testimine2\\WebsiteTests\\WebsiteTests\\UnitTest2.cs",
+              "RelativeToolTip": "WebsiteTests\\UnitTest2.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:31:53.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\testimine2\\WebsiteTests\\WebsiteTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WebsiteTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\testimine2\\WebsiteTests\\WebsiteTests\\UnitTest1.cs",
+              "RelativeToolTip": "WebsiteTests\\UnitTest1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:44.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
